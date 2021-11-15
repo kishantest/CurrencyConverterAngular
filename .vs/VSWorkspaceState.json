@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dist\\CurrencyConverterAngular",
+    "\\src\\app",
+    "\\src\\app\\currency-converter",
+    "\\src\\app\\ui",
+    "\\src\\app\\ui\\footer",
+    "\\src\\app\\ui\\header",
+    "\\src\\app\\ui\\layout",
+    "\\src\\environments"
+  ],
+  "PreviewInSolutionExplorer": false
+}
